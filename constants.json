@@ -1,0 +1,14 @@
+{
+    "LLHEADER": "https://www.learnedleague.com",
+    "LOGINFILE": "https://www.learnedleague.com/ucp.php?mode=login",
+    "USER_DATA": "https://www.learnedleague.com/profiles/previous.php?%s",
+    "QHIST": "https://www.learnedleague.com/profiles/qhist.php?%s",
+    "MATCH_DATA": "https://www.learnedleague.com/match.php?%s",
+    "ONEDAYS": "https://www.learnedleague.com/oneday",
+    "STANDINGS": "/standings.php?",
+    "EXP_STANDINGS": "/standings_ex.php?",
+    "LLSTANDINGS": "https://www.learnedleague.com/standings.php?",
+    "ARUNDLE": "https://www.learnedleague.com/standings.php?%d&A_%s",
+    "INPUTDATA": "logindata.ini",
+    "TOTAL_MATCHES_PER_SEASON": 25
+}
