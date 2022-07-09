@@ -1,3 +1,5 @@
 logindata.ini
 session.pkl
 .ipynb_checkpoints
+personal_data/*
+player_question_history*
