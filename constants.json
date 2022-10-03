@@ -7,6 +7,7 @@
     "ONEDAYS": "https://www.learnedleague.com/oneday",
     "STANDINGS": "/standings.php?",
     "EXP_STANDINGS": "/standings_ex.php?",
+    "ACTIVE_PLAYERS": "/backend-search.php?term=",
     "LLSTANDINGS": "https://www.learnedleague.com/standings.php?",
     "ARUNDLE": "https://www.learnedleague.com/standings.php?%d&A_%s",
     "INPUTDATA": "logindata.ini",
