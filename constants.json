@@ -11,5 +11,6 @@
     "LLSTANDINGS": "https://www.learnedleague.com/standings.php?",
     "ARUNDLE": "https://www.learnedleague.com/standings.php?%d&A_%s",
     "INPUTDATA": "logindata.ini",
-    "TOTAL_MATCHES_PER_SEASON": 25
+    "TOTAL_MATCHES_PER_SEASON": 25,
+    "LATEST_SEASON": 95
 }
