@@ -4,7 +4,29 @@ import requests
 import json
 import pickle
 import pandas as pd
+from enum import Enum
 
+EmbeddingType = Enum('EmbeddingType', ['Sentence', 'Word'])
+QuestionCategory = Enum('QuestionCategory', [
+    'AMER HIST',
+    'ART',
+    'BUS/ECON',
+    'CLASS MUSIC',
+    'CURR EVENTS',
+    'FILM',
+    'FOOD/DRINK',
+    'GAMES/SPORT',
+    'GEOGRAPHY',
+    'LANGUAGE',
+    'LIFESTYL.E',
+    'LIFESTYLE',
+    'LITERATURE',
+    'MATH',
+    'POP MUSIC',
+    'SCIENCE',
+    'TELEVISION',
+    'THEATRE',
+    'WORLD HIST'])
 with open('pp_by_username.json', 'r') as fp:
     by_username = json.load(fp)
 with open('player_profiles.json', 'r') as fp:
